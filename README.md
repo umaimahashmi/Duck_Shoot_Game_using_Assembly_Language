@@ -1,6 +1,6 @@
 # COAL Project: DUCK SHOOT
 
-A repository containing code for the "DUCK SHOOT" game created in the 4th semester for the COAL project.
+A repository containing code for the "DUCK SHOOT" game.
 
 ## Game Overview
 
